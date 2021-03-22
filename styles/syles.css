@@ -1,8 +1,39 @@
 body{
-    background-color: brown;
+    background-color: whitesmoke;
+    margin: 0px;
 }
-#nav li{
-    align-items: center;
-    display: inline;
- margin: 50px;
+header{
+    background-color: teal;
+    height: 120px;
+}
+header nav ul li{
+float:right;
+display: inline-block;
+width: 6%;
+}
+header nav ul li a{
+    color: yellowgreen;
+}
+header nav ul li a{
+}
+main{
+    background-color: tomato;
+text-align: center;
+}
+main section1 h3{
+    margin: 0px
+}
+section1{
+    font-size: 30px;
+}
+section2{
+    font-size: 30px;
+}section3{
+    font-size: 30px;
+}
+
+footer{
+    text-align: center;
+    height: 50px;
+    background-color: teal;
 }
